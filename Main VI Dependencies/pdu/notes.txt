@@ -1,0 +1,4 @@
+https://www.manageengine.com/products/mibbrowser-free-tool/mib-browser.html
+https://snmpsoft.com/shell-tools/snmp-set/
+---
+snmpget -c:private -r:172.20.125.112 -o:.1.3.6.1.4.1.3808.1.1.3.3.3.1.1.4.1 -q
