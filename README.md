@@ -3,11 +3,15 @@ These are Labview files which pertain to multiple projects from the MGH/MIT grou
 
 To use them with the MPS/imager, you must have the following packages downloaded (download with the VI package manager, "VIPM").
 
-Live HDF5
-OpenG String Library
-OpenG Variant Data Library
-OpenG Error Library
-OpenG Array Library
+* Live HDF5
+
+* OpenG String Library
+
+* OpenG Variant Data Library
+
+* OpenG Error Library
+
+* OpenG Array Library
 
 If you download Live HDF5, it will prompt you to download the others.
 
